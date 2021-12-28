@@ -27,5 +27,5 @@ The purpose of this analysis is to analyze the Amazon vine paid program reviews 
 <img width="681" alt="five_star_percent_unpaid" src="https://user-images.githubusercontent.com/88624677/147596560-7b31734e-97b4-4b73-a105-a405c01e79a2.png">
 
 
-## Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. 
+## Summary: 
 56.67% of the 5-star Amazon reviews were paid Vine reviews, similarly 56.70% of the 5-star reviews were unpaid reviews. This does not seem to describe positivity bias in the Vine program, at least not for the musical instruments dataset that I used. We could look at the statistical mean, mode, and median of the data for both vine progam reviews and unpaid reviews.
